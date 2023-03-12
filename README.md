@@ -1,2 +1,2 @@
 # hello-world
-wtf
+first project
